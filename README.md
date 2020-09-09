@@ -99,3 +99,9 @@ pip install crepe
 - **The best viewing experience is to set the player (the option in the lower right corner) to 1080p.**
 
 [![Watch the video](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/FGNL_Demo.png)](https://drive.google.com/file/d/1Ut57QWhbxN90EP-N7R-oS1Mji6YBBN0-/preview)
+
+## Reference
+- Nasrullah, Z., and Zhao, Y. 2019. Music artist classification with convolutional recurrent neural networks. In International Joint Conference on Neural Networks (IJCNN), 1–8.
+- Hsieh, T.-H.; Cheng, K.-H.; Fan, Z.-C.; Yang, Y.-C.; and Yang, Y.-H. 2020. Addressing the confounds of accompaniments in singer identification. In IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 1–5.
+- Wang, X.; Girshick, R.; Gupta, A.; and He, K. 2018. Nonlocal neural networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 7794–7803.
+- Hu, J.; Shen, L.; and Sun, G. 2018. Squeeze-and-excitation networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 7132–7141.
