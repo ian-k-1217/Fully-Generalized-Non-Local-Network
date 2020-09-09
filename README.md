@@ -98,4 +98,4 @@ pip install crepe
 
 - **The best viewing experience is to set the player (the option in the lower right corner) to 1080p.**
 
-[![Watch the video](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/FGNL_Demo.png)](https://drive.google.com/file/d/1jvKsuiPj_zj-1BLtGnlxRlpkzEk8Gzqw/preview)
+[![Watch the video](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/FGNL_Demo.png)](https://drive.google.com/file/d/1Ut57QWhbxN90EP-N7R-oS1Mji6YBBN0-/preview)
