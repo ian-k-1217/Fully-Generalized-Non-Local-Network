@@ -78,7 +78,7 @@ pip install crepe
 
 *Evaluation results on the benchmark [artist20](https://labrosa.ee.columbia.edu/projects/artistid/) dataset (album-split).*
 
-- **Table 1:** *The average and best F1 scores of the frame level and the song level in various length settings (3 runs). Bold is the comparison winner of the same series (CRNN or CRNNM) model.*
+- **Table 1:** *The average and best F1 scores of the frame level and the song level in various length settings. For each t-length (3s, 5s, or 10s) experiment, repeat three independent runs. Bold is the comparison winner of the same series (CRNN or CRNNM) model.*
 
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table1.png)
 
