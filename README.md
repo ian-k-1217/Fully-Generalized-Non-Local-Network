@@ -76,7 +76,7 @@ pip install crepe
 
 ## Results and Comparisons
 
-*Evaluation results on the benchmark [artist20](https://labrosa.ee.columbia.edu/projects/artistid/) dataset (album split).*
+*Evaluation results on the benchmark [artist20](https://labrosa.ee.columbia.edu/projects/artistid/) dataset (album-split).*
 
 - **Table 1:** *The average and best F1 scores of frame and song levels in various length settings (3 runs). Bold is the comparison winner of the same series (CRNN or CRNNM) model.*
 
