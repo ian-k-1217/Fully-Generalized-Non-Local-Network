@@ -13,7 +13,7 @@ If you use our code in your research or wish to refer to the baseline results, p
 @article{Fully Generalized Non Local 2021,
   author =   {},
   title =    {Positions, Channels, and Layers: Fully Generalized Non-Local Network for Singer Identification},
-  conference =  {Submitted to AAAI},
+  conference =  {Accepted in AAAI},
   year =     {2021}
 }
 ```
