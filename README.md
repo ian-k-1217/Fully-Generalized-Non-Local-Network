@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ````
 
 Additional installation details (recommended for replication and strong performance):
+
 **Hardware**
 - CPU: Intel i9-9900KF 3.60GHz
 - RAM: 128GB
