@@ -11,9 +11,9 @@ The code and models in this repository are released under the [CC-BY-NC 4.0 LICE
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 ```
 @article{Fully Generalized Non Local 2021,
-  author =   {},
+  author =   {I-Yuan Kuo, Wen-Li Wei, and Jen-Chun Lin},
   title =    {Positions, Channels, and Layers: Fully Generalized Non-Local Network for Singer Identification},
-  conference =  {Accepted in AAAI},
+  conference =  {To Appear in AAAI},
   year =     {2021}
 }
 ```
