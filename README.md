@@ -42,9 +42,14 @@ pip install -r requirements.txt
 ````
 
 Additional installation details (recommended for replication and strong performance):
+- **Hardware**
+- CPU: Intel i9-9900KF 3.60GHz
+- RAM: 128GB
+- GPU: Nvidia TitanRTX
+
+- **Software**
 - OS: Windows 10 Pro
 - Python: 3.7.7
-- GPU: Nvidia TitanRTX
 - CUDA: 10.1
 - CUDNN: 10.1
 - [ffmpeg](http://ffmpeg.org/download.html) is required by Librosa to convert audio files into spectrograms. 
