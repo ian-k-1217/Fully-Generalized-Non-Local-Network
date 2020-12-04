@@ -5,7 +5,7 @@ The code is developed based on the [TensorFlow 2.1](https://www.tensorflow.org/)
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/FGNL_Fig1.png)
 
 ## License
-The code and models in this repository are released under the [CC-BY-NC 4.0 LICENSE](https://github.com/i-yuan-kuo/Fully-Generalized-Non-Local-Network/blob/master/LICENSE).
+The code and model in this repository are released under the [CC-BY-NC 4.0 LICENSE](https://github.com/i-yuan-kuo/Fully-Generalized-Non-Local-Network/blob/master/LICENSE).
 
 ## Citation
 If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
