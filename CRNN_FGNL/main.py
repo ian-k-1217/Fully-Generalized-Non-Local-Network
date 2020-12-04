@@ -32,7 +32,7 @@ if __name__ == '__main__':
 	split_methods = ['album']
 	slice_lengths = [94, 157, 313]
 	random_state_list = [0, 21, 42]
-	train_bool = False;
+	train_bool = True;
 	for split_method in split_methods:
 		for song_folder in song_folders:
 			album_split = True
