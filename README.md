@@ -77,7 +77,7 @@ pip install crepe
 
 ## Usage
 - **Prepare Datasets** - Follow the [Datasets](#Datasets) section to download artist20 and generate the datasets of Mel-Spectrum and Melody.
-- **Train and Evaluate** - Run *main.py*, it will begin a training loop which runs three independent trials for each audio length in {3s, 5s, 10s} on the datasets "Origin" and "Vocal-only".
+- **Train and Evaluate** - Run *main.py*, it will begin a training loop which runs three independent trials for each audio length in {3s, 5s, 10s} on the datasets "Origin" and "Vocal-only". We provide [CRNN_FGNL Models](https://drive.google.com/drive/folders/15Z9cReCk7WLVLBFuLmjHk6IwHDDviAM7?usp=sharing), please download the "result" directory and place it into "*CRNN_FGNL*".
 - **Representation Visualization** - You can modify the parameter *tsne* to *True* in *main.py*, it will generate the t-sne image during the training and evaluating period.
 
 ## Results and Comparisons
