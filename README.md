@@ -96,6 +96,10 @@ pip install crepe
 
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table3.png)
 
+- **Table 4:** *Ablation experiments of CRNNM with three attention modules, including NL (Wang et al. 2018), FGNL_LIGHT, and FGNL. Bold indicates the comparison winner of the model.*
+
+![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table4.png)
+
 - **Representation Visualization:** *Visualization of the embeddings (projected into 2-D space by t-SNE) under the original audio file setting of the 5-sec frame level test samples. From left to right are CRNN, CRNN_NL, CRNN_FGNL_LIGHT, and CRNN_FGNL.*
 
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_RepresentationVisualization.png)
