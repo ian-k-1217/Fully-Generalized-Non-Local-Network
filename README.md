@@ -100,6 +100,16 @@ pip install crepe
 
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table4.png)
 
+
+- **Table 5:** *Ablation experiments of CRNNM_FGNL with and without Gaussian smoothing, MoSE, and SE (Hu, Shen, and Sun 2018) mechanisms. Bold indicates the comparison winner of the model.*
+
+![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table5.png)
+
+
+- **Table 6:** *A series of experiments on CRNN and CRNNM models under different parameter settings. Bold is the comparison winner of the same series (CRNN or CRNNM) model.*
+
+![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_Table6.png)
+
 - **Representation Visualization:** *Visualization of the embeddings (projected into 2-D space by t-SNE) under the original audio file setting of the 5-sec frame level test samples. From left to right are CRNN, CRNN_NL, CRNN_FGNL_LIGHT, and CRNN_FGNL.*
 
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/Result_RepresentationVisualization.png)
