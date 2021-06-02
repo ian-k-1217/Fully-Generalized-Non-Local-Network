@@ -1,6 +1,6 @@
 # Positions, Channels, and Layers: Fully Generalized Non-Local Network for Singer Identification
 This code is an implementation for the paper 
-"[Positions, Channels, and Layers: Fully Generalized Non-Local Network for Singer Identification](https://)".
+"[Positions, Channels, and Layers: Fully Generalized Non-Local Network for Singer Identification](https://ojs.aaai.org/index.php/AAAI/article/view/17000)".
 The code is developed based on the [TensorFlow 2.1](https://www.tensorflow.org/) framework.
 ![image](https://github.com/ian-k-1217/Fully-Generalized-Non-Local-Network/blob/master/images/FGNL_Fig1.png)
 
